@@ -7,3 +7,4 @@ As the population of older adults grows, so does the prevalence of neurocognitiv
 
 Please cite the following paper if you find this script useful:
 
+Fernández-Rubio, G., Vuust, P., Kringelbach, M. L., Bonetti, L. (2024). The neurophysiology of healthy and pathological aging: A comprehensive systematic review. bioRxiv 2024.08.06.606817; doi: https://doi.org/10.1101/2024.08.06.606817
